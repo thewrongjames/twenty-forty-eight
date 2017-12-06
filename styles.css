@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.square {
+    width: 50px;
+    height: 50px;
+    float: left;
+    vertical-align: center;
+    text-align: center;
+}
+
+.holder {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 35px;
+}
